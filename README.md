@@ -1,4 +1,4 @@
-## Hi there, I'm Sumin GO 
+## Hi there, I'm Sumin Go
 
 ### - 😄 My Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L91519&theme=dark&show_icons=true)
