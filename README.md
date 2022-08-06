@@ -3,6 +3,8 @@
 ### - 😄 My Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L91519&theme=dark&show_icons=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=L91519&theme=dark)]
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L91519)
 
 <!--
