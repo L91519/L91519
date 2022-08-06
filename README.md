@@ -5,7 +5,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L91519)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gohsoom)(https://solved.ac/gohsoom/)
+<!--
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gohsoom)
+-->	
 
 <!--
 <a href="https://opgc.me/#/users/L91519" target="_blank"><img src="https://api.opgc.me/githubs/users/L91519/tag/?theme=basic" /></a>
