@@ -15,6 +15,6 @@
 <a href="https://opgc.me/#/users/L91519" target="_blank"><img src="https://api.opgc.me/githubs/users/L91519/tag/?theme=basic" /></a>
 -->	
 
-- 🔭 I’m currently working on Aliticast as an Junior Android Developter
+- 🔭 I’m currently working on Aliticast as Junior Android Developter
 - 📫 How to reach me: gohSoom@gmail.com
 - ⚡ Fun fact: Generation Z
