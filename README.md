@@ -16,5 +16,5 @@
 -->	
 
 - 🔭 I’m currently working on Aliticast as Junior Android Developter
-- 📫 How to reach me: gohSoom@gmail.com
+- 📫 How to reach me: gohsoom@gmail.com
 - ⚡ Fun fact: Generation Z
